@@ -22,6 +22,7 @@
 
 ---
 
+
 ## 🌐 Connect with Me
 <p align="center">
   <!-- LinkedIn -->
@@ -259,3 +260,8 @@
 </p>
 
 <!-- Proudly generated with ❤️ by ChatGPT + GPRM -->
+<!-- 🚀 Footer Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterWolfgg&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Thanks for visiting!" />
+</p>
+
