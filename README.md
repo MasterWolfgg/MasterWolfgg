@@ -1,14 +1,8 @@
 <!-- ─────────────────────────  TOP BANNER  ───────────────────────── -->
+<!-- GitHub Profile Banner (cool theme + aligned + adaptive) -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?
-      type=waving&height=200&section=header&animation=fadeIn
-      &text=Hi%2C%20I'm%20Sarbobhowma%20Sen!&fontAlign=50&fontAlignY=40
-      &fontSize=40&color=gradient
-      &desc=Front‑End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Cyber‑Security%20Enthusiast
-      &descSize=18&descAlign=50&descAlignY=70"
-    alt="Animated banner"
-  />
+  <!-- Gradient Capsule Render Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc3,00f7ff,0099ff,0077ff,6300ff&height=200&section=header&text=Sarbobhowma%20Sen&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" />
 </p>
 
 <h1 align="center">
