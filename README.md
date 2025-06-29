@@ -97,11 +97,22 @@
 </p>
 
 ---
+<!-- 🐍 GitHub Snake Game - Auto Theme -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MasterWolfgg/MasterWolfgg/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MasterWolfgg/MasterWolfgg/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MasterWolfgg/MasterWolfgg/output/github-snake.svg" />
+  </picture>
+</div>
 
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MasterWolfgg&label=Profile+Views&color=0e75b6&style=flat" alt="Visitor Count Badge" />
 </p>
 
----
+
+
 
 <!-- Proudly generated with ❤️ by ChatGPT + GPRM -->
