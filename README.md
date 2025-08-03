@@ -30,12 +30,13 @@
   <a href="https://www.linkedin.com/in/sarbobhowma-sen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:sarbobhowmasen12345@gmail.com" target="_blank">
+
+  <!-- Gmail (Open in browser with compose window) -->
+  <a href="https://mail.google.com/mail/?view=cm&to=sarbobhowmasen12345@gmail.com&su=Job%20Opportunity&body=Hi%20Sarbobhowma%2C" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 ---
 
 ## 💻 Tech Stack
