@@ -24,21 +24,18 @@
 
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <!-- LinkedIn -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </picture>
+  <a href="https://www.linkedin.com/in/sarbobhowma-sen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
   <!-- Gmail -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </picture>
+  <a href="mailto:sarbobhowmasen12345@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
-
 ---
 
 ## 💻 Tech Stack
